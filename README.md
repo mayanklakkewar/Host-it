@@ -25,7 +25,7 @@ Check out the live demo here: https://host-it-hosting.vercel.app/
 ### Setup & Installation 🛠️
 Clone the repository:
 ```
-git clone https://github.com/yourusername/host-it.git
+git clone https://github.com/mayanklakkewar/host-it.git
 ```
 
 Navigate to the project directory:
